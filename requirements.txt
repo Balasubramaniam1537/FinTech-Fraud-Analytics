@@ -1,0 +1,6 @@
+pandas
+numpy
+google-cloud-bigquery
+pandas-gbq
+scikit-learn
+xgboost
