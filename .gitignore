@@ -1,0 +1,13 @@
+# Security credentials
+bigquery_key.json
+*.json
+
+# Data assets
+*.csv
+*.xlsx
+
+# Python environment artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
